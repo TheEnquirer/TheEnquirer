@@ -7,9 +7,9 @@ I'm a highschooler in the Bay Area, an avid (neo)vim user, and more importantly,
 
 Some non-private repos and projects you can check out are 
 
-- 📋 [#!/Shabang | Condution](www.condution.com): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ionic-ohms @Jemoka 
+- 📋 [#!/Shabang | Condution](www.condution.com): Awesome Checklist App for Humans and Aliens Alike w/ @zbuster05 @Exr0n @ban-ironic-ohms @Jemoka 
 - ⚙️ [My Config](https://github.com/TheEnquirer/config): It's very good :)
-- 🌱 [Taproot](https://github.com/SkoolNotes/Taproot): My note taking system I built with some friends 
+- 🌱 [Taproot](https://github.com/SkoolNotes/Taproot): My Notetaking system I built with some friends 
 
 *And alot more, coming soon!* 
 
