@@ -1,6 +1,6 @@
 # Yoy. How goes it?
 
-I'm TheEnquirer, also know as, well, just Enquirer (and sometimes Abstract Giraffe.) 
+I'm TheEnquirer, also known as, well, just Enquirer (and sometimes Abstract Giraffe.) 
 
 I'm a highschooler in the Bay Area, an avid (neo)vim user, and more importantly, someone who loves to make things. Coding is one of the ways I pursue that love, and that's what github is here for! 
 
